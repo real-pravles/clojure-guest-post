@@ -1,4 +1,4 @@
-package com.pravles.clojure_guest_post;
+package com.pravles.clojureguestpost;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
